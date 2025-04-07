@@ -14,7 +14,7 @@ This project is a sales performance dashboard built using the **Superstore datas
 
 ## 🔗 Live Dashboard
 
-👉 [Click here to view the dashboard on Tableau Public](https://public.tableau.com/app/profile/sujanapal.m.r/viz/Book1_17440019790570/SalesDashboard?publish=yes)
+👉 [Click here to view the dashboard on Tableau Public](https://public.tableau.com/app/profile/sujanapal.m.r/viz/Book1_17440019790570/SalesDashboard?publish=yes))
 
 ---
 
